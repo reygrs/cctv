@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "lokasi": "AIR MANCUR",
+            "url": "http://110.232.82.176/live/AIR_MANCUR.m3u8"
+        },
+        {
+            "lokasi": "TIRTONADI",
+            "url": "http://110.232.82.176/live/TIRTONADI.m3u8"
+        },
+        
+        {
+            "undefined": ""
+        }
+    ]
+}
