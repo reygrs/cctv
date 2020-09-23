@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "lokasi": "AKPOL",
+            "url": "http://www.lalinsemarang.info:1935/live/akpol.stream/playlist.m3u8"
+        },
+        {
+            "lokasi": "BALAIKOTA",
+            "url": "http://www.lalinsemarang.info:1935/live/balaikota.stream/playlist.m3u8"
+        },
+        {
+            "lokasi": "EXIT TOL GAYAMSARI",
+            "url": "http://www.lalinsemarang.info:1935/live/pasargayam.stream/playlist.m3u8"
+        },
+        {
+            "lokasi": "KALI BANTENG",
+            "url": "http://www.lalinsemarang.info:1935/live/kalibanteng.stream/playlist.m3u8"
+        },
+        {
+            "lokasi": "KALI BANTENG",
+            "url": "http://www.lalinsemarang.info:1935/live/kalibanteng2.stream/playlist.m3u8"
+        },
+        {
+            "lokasi": "PARAGON",
+            "url": "http://www.lalinsemarang.info:1935/live/paragon.stream/playlist.m3u8"
+        },
+        {
+            "lokasi": "POLDA JATENG",
+            "url": "http://www.lalinsemarang.info:1935/live/polda.stream/playlist.m3u8"
+        },
+        {
+            "lokasi": "SIMPANG LIMA 2",
+            "url": "http://www.lalinsemarang.info:1935/live/simpanglima2.stream/playlist.m3u8"
+        },
+        {
+            "lokasi": "TUGU MUDA 3",
+            "url": "http://www.lalinsemarang.info:1935/live/tugumuda3.stream/playlist.m3u8"
+        },
+        {
+            "undefined": ""
+        }
+    ]
+}
